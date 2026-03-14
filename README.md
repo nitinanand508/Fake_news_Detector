@@ -247,3 +247,5 @@ http://localhost:8501
 - Extend dataset for **multi-language** fake news detection  
 - Add **Explainable AI** (LIME / SHAP) for model transparency  
 - Deploy live on **Streamlit Cloud** or **Hugging Face Spaces**
+#   F a k e _ n e w s _ D e t e c t o r  
+ 
