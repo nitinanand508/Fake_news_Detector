@@ -1,9 +1,7 @@
 # Fake News & Misinformation Detector
 
-Detect fake vs real news articles using Machine Learning, TF-IDF, and Logistic Regression, complete with training scripts, evaluation charts, and an interactive Streamlit web app.
-      
+Detect fake vs real news articles using Machine Learning, TF-IDF, and Logistic Regression, complete with training scripts, evaluation charts, and an interactive Streamlit web app.     
 ---
-
 ## Table of Contents
 - [Overview](#-overview)
 - [Demo](#-demo)
@@ -247,5 +245,6 @@ http://localhost:8501
 - Extend dataset for **multi-language** fake news detection  
 - Add **Explainable AI** (LIME / SHAP) for model transparency  
 - Deploy live on **Streamlit Cloud** or **Hugging Face Spaces**
-#   F a k e _ n e w s _ D e t e c t o r  
+#   F a k e _ n e w s _ D e t e c t o r 
+ 
  
